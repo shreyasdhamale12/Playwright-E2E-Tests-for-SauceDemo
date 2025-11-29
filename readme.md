@@ -1,3 +1,8 @@
+# Allure report:  
+
+<img width="1908" height="588" alt="image" src="https://github.com/user-attachments/assets/574a9d3b-b9ec-4fa1-a678-4344e4d819b0" />
+
+
 # 🧪 Playwright Automation Framework – SauceDemo Testing
 
 This repository contains an end-to-end UI automation framework using **Playwright** with **JavaScript/TypeScript**, built to test the functionality of the **SauceDemo** e-commerce application.
